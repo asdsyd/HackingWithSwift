@@ -10,8 +10,5 @@ Contains all my solutions and projects of 100DaysOfSwiftUI Journey.
 | Day-19 | [Challenge-day]()                       | [𝕏]()                   | in-progress |
 | Day-22 | [2-GuessTheFlag]()                      | [𝕏]()                   | queued      |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
 
