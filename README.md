@@ -12,8 +12,8 @@ Contains all my solutions and projects of [100DaysOfSwiftUI](https://www.hacking
 | Day-24 | [3-ViewsAndModifiers](/ViewsAndModifiers) | [𝕏](https://x.com/asdsydd/status/1729543041076388190?s=20)   | done        |
 | Day-25 | [Challenge-day-Game](/ScissorYourBrain)   | [𝕏](https://x.com/asdsydd/status/1729544201988145336?s=20)   | done        |
 | Day-28 | [4-BetterRest]()                          | [𝕏]()                                                        | in-progress |
-| Day-28 | [5-WordScramble]()                        | [𝕏]()                                                        | queued      |
-| Day-28 | [6-Animation]()                           | [𝕏]()                                                        | queued      |
+| Day-31 | [5-WordScramble]()                        | [𝕏]()                                                        | queued      |
+| Day-34 | [6-Animation]()                           | [𝕏]()                                                        | queued      |
 
 
 
